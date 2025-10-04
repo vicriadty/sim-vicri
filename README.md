@@ -46,6 +46,9 @@ graph TD
 
 ## 🖥️ Interface Sistem
 
+### Antrian App
+[antrian app](https://vicriadty.github.io/sim-vicri)
+
 ### Dashboard Admin
 ![Dashboard Antrian](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Dashboard+Monitoring+Antrian)
 
